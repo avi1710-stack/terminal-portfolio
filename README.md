@@ -70,7 +70,7 @@ Run it by opening `index.html` in your browser.
 
 ## 🌐 Live Demo
 
-( Add your deployed link here )
+https://legendary-heliotrope-71998a.netlify.app/
 
 ```
 
